@@ -1,8 +1,8 @@
 {
-  "name": "GraphLinq.BetaTest",
+  "name": "graphlinq.betatest",
   "version": "1.0.0",
   "description": "GraphLinq Beta Test Website",
-  "author": "GraphLinq <john.graphlinq@gmail.com>",
+  "author": "GraphLinq Chain <info@graphlinq.io>",
   "license": "MIT",
   "repository": {
     "type": "git",
